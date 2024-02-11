@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
+        "autoplay",
         "cinemapedia",
         "dotenv",
         "moviedb",
         "MOVIEDB",
-        "riverpod"
+        "riverpod",
+        "swiper"
     ]
 }
